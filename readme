@@ -1,0 +1,16 @@
+# Verificação de Maioridade
+
+Este projeto é uma aplicação em Python que permite verificar se uma pessoa é maior de idade com base na sua data de nascimento. O usuário fornece sua data de nascimento e o programa calcula sua idade atual para verificar se ele é maior de 18 anos.
+
+## Funcionalidades
+
+- Solicita a data de nascimento do usuário.
+- Calcula a idade atual com base no ano atual.
+- Verifica se o usuário é maior de idade (idade >= 18 anos).
+- Exibe uma mensagem informando se o usuário é ou não maior de idade.
+
+## Como usar
+
+1. Clone o repositório para sua máquina local:
+   
+   git clone https://github.com/seuusuario/verificacao-maioridade.git
