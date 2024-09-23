@@ -1,0 +1,8 @@
+Verificação de Maioridade
+Neste projeto de programação, o objetivo é desenvolver uma aplicação simples em Python que verifique se uma pessoa é maior de idade com base na sua idade. O usuário fornecerá a sua data de nascimento, e o programa calculará a idade atual da pessoa para verificar se ela é maior de 18 anos. O projeto utiliza lógica de programação, operações de manipulação de datas e controle de fluxo.
+
+Funcionalidades:
+Entrada da data de nascimento do usuário.
+Cálculo da idade atual.
+Verificação se a idade é igual ou maior que 18 anos.
+Exibição de mensagens personalizadas com base na verificação.
