@@ -1,0 +1,28 @@
+# Arquivos e diretórios a serem ignorados
+
+# Ambientes virtuais do Python
+venv/
+.env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Arquivos de backup temporários
+*.swp
+*.swo
+*.bak
+
+# Arquivos de sistema do macOS
+.DS_Store
+
+# Arquivos de sistema do Windows
+Thumbs.db
+desktop.ini
